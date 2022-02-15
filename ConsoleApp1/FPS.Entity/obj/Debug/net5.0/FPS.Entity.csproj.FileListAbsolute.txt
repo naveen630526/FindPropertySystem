@@ -1,0 +1,12 @@
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\bin\Debug\net5.0\FPS.Entity.deps.json
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\bin\Debug\net5.0\FPS.Entity.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\bin\Debug\net5.0\ref\FPS.Entity.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\bin\Debug\net5.0\FPS.Entity.pdb
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.AssemblyInfo.cs
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\ref\FPS.Entity.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Entity\obj\Debug\net5.0\FPS.Entity.pdb

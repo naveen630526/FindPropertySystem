@@ -1,0 +1,12 @@
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\bin\Debug\net5.0\FPS.DAL.deps.json
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\bin\Debug\net5.0\FPS.DAL.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\bin\Debug\net5.0\ref\FPS.DAL.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\bin\Debug\net5.0\FPS.DAL.pdb
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.AssemblyInfo.cs
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\ref\FPS.DAL.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.DAL\obj\Debug\net5.0\FPS.DAL.pdb

@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.exe
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.deps.json
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.runtimeconfig.json
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.runtimeconfig.dev.json
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\FSP.UI.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\FSP.UI.pdb
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.AssemblyInfo.cs
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\FSP.UI.dll
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.pdb
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.genruntimeconfig.cache
