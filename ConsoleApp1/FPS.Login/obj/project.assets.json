@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\ConsoleApp1\\FSP.UI.csproj",
-      "projectName": "FSP.UI",
-      "projectPath": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\ConsoleApp1\\FSP.UI.csproj",
+      "projectUniqueName": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\FPS.Login\\FPS.Login.csproj",
+      "projectName": "FPS.Login",
+      "projectPath": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\FPS.Login\\FPS.Login.csproj",
       "packagesPath": "C:\\Users\\prajw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\prajw\\source\\repos\\Sprint1\\ConsoleApp1\\FPS.Login\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prajw\\AppData\\Roaming\\NuGet\\NuGet.Config",
