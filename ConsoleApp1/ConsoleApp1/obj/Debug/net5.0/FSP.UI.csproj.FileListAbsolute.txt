@@ -13,3 +13,4 @@ C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\FSP.UI.dll
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.pdb
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.genruntimeconfig.cache
+C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FSP.UI.csproj.AssemblyReference.cache

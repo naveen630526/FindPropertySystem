@@ -4,5 +4,6 @@ namespace FPS.BL
 {
     public class LoginBL
     {
+
     }
 }
