@@ -8,5 +8,6 @@ namespace FPS.DAL
 {
    public class PropertyDAO
     {
+        Console.WriteLine("Hello");
     }
 }
