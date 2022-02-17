@@ -10,3 +10,15 @@ C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\F
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.dll
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\ref\FPS.Exception.dll
 C:\Users\prajw\source\repos\Sprint1\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.pdb
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\bin\Debug\net5.0\FPS.Exception.deps.json
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\bin\Debug\net5.0\FPS.Exception.dll
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\bin\Debug\net5.0\ref\FPS.Exception.dll
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\bin\Debug\net5.0\FPS.Exception.pdb
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.csproj.AssemblyReference.cache
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.AssemblyInfoInputs.cache
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.AssemblyInfo.cs
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.csproj.CoreCompileInputs.cache
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.dll
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\ref\FPS.Exception.dll
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\FPS.Exception\obj\Debug\net5.0\FPS.Exception.pdb

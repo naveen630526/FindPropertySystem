@@ -1,0 +1,5 @@
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FPS.UI.csproj.AssemblyReference.cache
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FPS.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FPS.UI.AssemblyInfoInputs.cache
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FPS.UI.AssemblyInfo.cs
+C:\Users\91837\Source\Repos\naveen630526\FindPropertySystem\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\FPS.UI.csproj.CoreCompileInputs.cache

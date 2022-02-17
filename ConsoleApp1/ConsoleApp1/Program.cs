@@ -70,6 +70,7 @@ namespace FSP.UI
         {
             PropertyMenu();
             PropertyMain();
+            Console.wrieline("helo")
         }
     }
    
